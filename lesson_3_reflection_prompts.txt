@@ -1,0 +1,3 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+
+A: To store your work so that if your local copy gets corrupted or lost, you won't lose your work. Also, if you want to be able to collaborate with others, you will need to set up the remote repository.
